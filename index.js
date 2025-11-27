@@ -105,3 +105,4 @@ formElement.addEventListener('submit', function(evt) {
   
   inputElement.value = '';
 });
+
