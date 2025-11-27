@@ -1,1 +1,6 @@
 .DS_Store
+/.vs/to-do-pre/FileContentIndex
+/.vs/to-do-pre/v17
+*.json
+*.sqlite-journal
+*.sqlite
